@@ -19,5 +19,4 @@ Nuestro equipo de diseño nos dio este proyecto con la UI ya terminada, pero tod
 ## Entrega 3
 La Product Manager nos dijo que quieren usar esta misma lógica de carrito en otro proyecto. Debemos pasar toda la lógica de carrito de nuestro componente a context y luego usarlo. Debe ser lo suficientemente fácil de usar y medianamente genérico como para usarlo en otros proyectos.
 
----
-Si te gusta mi contenido, seguime en [Twitter](https://twitter.gonzalopozzo.com), en [Twitch](https://twitch.gonzalopozzo.com), doname un [Cafecito](https://cafecito.gonzalopozzo.com) o volvete [sponsor en github](https://github.com/sponsors/goncy) ✨
+
